@@ -1,0 +1,66 @@
+#sec_one {
+  border: 3px solid aqua;
+  margin: 3% 33%;
+  padding: 15px;
+}
+#sec_one h1{
+
+    color: white;
+  text-align: center;
+    text-transform: uppercase;
+
+}
+#sec_one form {
+    text-align: center;
+    color: white;
+
+}
+#sec_one form input{
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  border: 2px solid red;
+  text-align: center;
+  border-radius: 8px;
+}
+#sec_one form input[type="submit"]{
+  background: orange;
+  color: white;
+  font-size: 20px;
+  width: 150px;
+  text-transform: uppercase;
+  padding: 5px;
+}
+#sec_one textarea{
+  width: 300px;
+  padding: 10px;
+  border: 2px solid red;
+  border-radius: 15px;
+}
+#sec_one form input[type="submit"]:hover{
+  background: aqua;
+  color: black;
+  border: 2px solid grey;
+}
+#sec_two{
+    width: 90%;
+color: white;
+margin: 15px;
+text-transform: uppercase;
+}
+#sec_two table{
+  border: 1px solid white;
+  width: 90%;
+  text-align: center;
+  background: white;
+  color: black;
+
+
+}
+#p{
+  background:  green;
+
+}
+#a{
+  background: red;
+}
